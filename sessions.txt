@@ -1,0 +1,7 @@
+﻿{
+	"clientID": "h8y6LSeskYeXPgwwxa/lig==",
+	"serverToken": "1@ghlm535dZWgAtYEqAs+92oAh4vDj2721bZjvTMm6JzmFpfHwD27F7hXate6PXBl4ESUA4Rve3V1Tqg==",
+	"clientToken": "cZcgnTzldnNUgpJWnyuu/WVN2q5/8IT5tjYrd/Hice0=",
+	"encKey": "wcruTf5rQBuCC1hOuq8/r/2+FjmkGIzAotIkpGks30Q=",
+	"macKey": "HfSPAZi5/pzrfJHEnUrVOGUe7X41POXT3cDJgsL2qgM="
+}
